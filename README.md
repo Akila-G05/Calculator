@@ -48,3 +48,6 @@ java -jar dist/Calculator.jar
 ```
 
 Or open the project in NetBeans and press **F6** to run.
+## License
+
+MIT — see [LICENSE](LICENSE).
